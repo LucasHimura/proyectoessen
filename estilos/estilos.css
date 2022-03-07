@@ -1,0 +1,36 @@
+body {
+  background-color: #1b6363;
+}
+
+body article {
+  background-color: #30a1a1;
+}
+
+body article header {
+  background-color: aquamarine;
+}
+
+body article header footer {
+  background-color: #0c0b0c;
+}
+
+img {
+  width: 100%;
+}
+
+/*.galeria {
+    display: -ms-grid;
+    display: grid;
+    margin: 50px 10px 10px 50px;
+    padding: 50px 10px 10px 50px;
+    -ms-grid-rows: 30px 300px 30px 30px 300px 30px 300px 30px 30px 300px 30px;
+        grid-template-rows: 30px 300px 30px 30px 300px 30px 300px 30px 30px 300px 30px;
+    -ms-grid-columns: 300px 300px 300px;
+        grid-template-columns: 300px 300px 300px;
+    height: 80vh;
+    grid-row-gap: 10px;
+    grid-column-gap: 200px;
+        grid-template-areas: 
+        ""
+}*/
+/*# sourceMappingURL=estilos.css.map */
